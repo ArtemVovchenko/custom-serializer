@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Object::Root::Root():main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "void Utils::encode&lt;int&gt;(std::__1::vector&lt;signed char, std::__1::allocator&lt;signed char&gt; &gt;*, short*, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(value &gt;&gt; ((sizeof value * 8 - 8) - (i * 8)));">
+            </PersistentString>
+            <PersistentString
+               value = "*iterator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Object::Primitive::Primitive():main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Object::Primitive* Object::Primitive::create&lt;signed char&gt;(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, Object::Type, signed char):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Object::Primitive* Object::Primitive::create&lt;int&gt;(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, Object::Type, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizeof value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
